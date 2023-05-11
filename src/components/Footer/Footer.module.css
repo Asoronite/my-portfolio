@@ -1,0 +1,14 @@
+*{
+    margin: 100;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.position{
+    background-color: #A6855B;
+    /* position: relative; */
+    width: 100%;
+    bottom: 0;
+    color: darkcyan;
+    font-weight: 600;
+}

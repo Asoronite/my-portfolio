@@ -1,0 +1,30 @@
+*{
+     margin: 100;
+    padding: 0;
+    box-sizing: border-box;
+}
+.MovieContainer{
+    border: 5px solid rgb(162, 131, 19);
+    width: 320px;
+    height: 510px;
+    margin: 25px;
+    background-color:darkcyan;
+    display: inline-block;
+    text-align: center;
+}
+.posters{
+width: 250px;
+margin: 15px;
+}
+.names{
+    font-size: x-large;
+}
+.dates{
+    font-size: smaller;
+    text-decoration: underline;
+}
+.MovieTitle{
+    padding: 10px;
+    display: flex;
+    flex-direction: column-reverse;
+}

@@ -1,0 +1,47 @@
+*{
+    margin: 100;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../../Documents/pattern-runes-green-2x.png) ;
+}
+.NameContainer{
+margin: 25px;
+margin-top: 100px;
+
+}
+.Hello{
+color: darkcyan;
+font-size: 6rem;
+display: inline-block;
+}
+.Me{
+display: inline-block;
+font-size: 2rem;
+}
+.Koese{
+display: inline-block;
+font-size: 6rem;
+color: antiquewhite;
+}
+.Portrait{
+    height: 440px;
+    border-radius: 20px;
+    margin: 25px;
+    border: 5px solid #A6855B;
+    display: block;
+    margin-bottom: 0px;
+}
+.NamePortrait{
+    display: flex;
+}
+.SkillIcon{
+    font-size: 50px;
+    margin: 10px;
+    color: #A6855B;
+}
+.SkillIcons{
+    margin-bottom: 128px;
+    margin-left: 230px;
+}

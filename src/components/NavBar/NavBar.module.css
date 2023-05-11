@@ -1,0 +1,11 @@
+.all{
+    position: relative;
+    top: 0;
+    color: darkcyan;
+    background-color: #A6855B;
+    width: 100%;
+}
+.options{
+    color: darkcyan;
+    font-weight: 600;
+}

@@ -1,0 +1,34 @@
+*{
+    margin: 100;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+}
+.body{
+    min-height: 80vh;
+    margin: auto;
+    margin-top: 50px;
+    width: 750px;
+}
+.content{ 
+    background-color: #dfc4a1;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    color:antiquewhite;
+    background-image: url(../../Documents/pattern-runes-brown-2x.png);
+}
+.links{
+    display: flex;
+    margin: 10px;
+    margin-left:100px;
+    
+}
+.text{
+    padding: 20px;
+}
+.tel{
+    margin-right: 22px;
+    color: antiquewhite;
+}

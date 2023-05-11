@@ -1,0 +1,35 @@
+*{
+     margin: 100;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body{
+    min-height: 83.5vh;
+    margin: auto;
+    padding-top: 50px;
+    background-color: aliceblue;
+    background-image: url(../../Documents/pattern-runes-green-2x.png) ;
+}
+
+.CatCinema{
+    border-radius: 7%;
+}
+
+.CatContainer{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding: 40px;
+    background-color: #dfc4a1;   
+    border-radius: 7%;
+    margin: auto;
+    text-decoration: none;
+}
+.Title{
+    color: darkcyan;
+    margin-top: 25px;
+    font-size: xx-large;
+    font-weight: 700;
+}
